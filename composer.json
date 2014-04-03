@@ -1,0 +1,21 @@
+{
+    "name": "ackintosh/wp-remove-controll-character",
+    "description": "",
+    "keywords": [""],
+    "type": "library",
+    "license": "MIT",
+    "homepage": "https://github.com/ackintosh/wp-remove-contorll-character",
+    "authors": [
+        {
+        "name": "Akihito Nakano",
+        "email": "sora.akatsuki@gmail.com"
+    }
+    ],
+    "require": {
+        "php": ">=5.2.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "3.7.*",
+        "satooshi/php-coveralls": "0.6.*"
+    }
+}

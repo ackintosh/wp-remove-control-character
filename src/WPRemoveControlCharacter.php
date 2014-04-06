@@ -1,8 +1,8 @@
 <?php
-class WPRemoveControllCharacter
+class WPRemoveControlCharacter
 {
     /**
-     * remove controll character
+     * remove control character
      * http://qiita.com/suin/items/fd4c0fc808316793f9cc
      *
      * @param   string  $content
